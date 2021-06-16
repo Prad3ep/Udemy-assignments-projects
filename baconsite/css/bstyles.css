@@ -1,0 +1,21 @@
+/********************tag selectors*********************/
+h1{
+	color: red;
+	font-size: 100px;
+}
+img:hover{
+	background-color: gold;
+
+}
+/***********************class selectors*****************/
+.bacon{
+	background-color: green;
+	height: 120px
+}
+.circle{
+	border-radius: 100%;
+}
+/***************id selector***********************/
+#Heading{
+	color: blue;
+}
